@@ -27,27 +27,12 @@ I focus on building AI that creates real-world impact.
 
 # 🚀 Featured Projects
 
-### ⚖️ IPC ↔ BNS Comparator
-AI-powered legal section mapping tool  
-🔗 https://github.com/Reyajosephine/ipc_bns
-
----
-
-### 🧾 Certificate Automation
-Bulk certificate generation pipeline  
-🔗 https://github.com/Reyajosephine/Certificate_automation
-
----
-
-### 🌐 Portfolio Website
-Responsive UI + web showcase  
-🔗 https://github.com/Reyajosephine/My-1st-portfolio
-
----
-
-### 💼 Novus Internship Work
-Professional development artifacts  
-🔗 https://github.com/Reyajosephine/Novus-intern
+| Project | Link |
+|--------|------|
+| IPC ↔ BNS Comparator | https://github.com/Reyajosephine/ipc_bns |
+| Certificate Automation | https://github.com/Reyajosephine/Certificate_automation |
+| Portfolio Website | https://github.com/Reyajosephine/My-1st-portfolio |
+| Novus Internship Work | https://github.com/Reyajosephine/Novus-intern |
 
 
 ---
@@ -92,14 +77,6 @@ ML-based interaction prediction research
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Reyajosephine&theme=radical"/>
 </p>
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Reyajosephine&theme=onestar"/>
-</p>
-
 
 ---
 
