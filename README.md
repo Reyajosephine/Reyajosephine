@@ -1,10 +1,6 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-<img src="assets/cyberpunk-banner.png" width="100%"/>
-</p>
-
-<p align="center">
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Reya%20Josephine&width=800&height=150"/>
 </p>
 
