@@ -14,44 +14,42 @@
 
 ---
 
-# 🧠 About Me
+## <img src="https://img.icons8.com/fluency/28/artificial-intelligence.png"/> About Me
 
-🎓 AI & Data Science Student  
-🤖 Generative AI + RAG Systems Builder  
-🌐 Full Stack Developer  
-🏆 Hackathon Organizer & Tech Leader  
+- Artificial Intelligence & Data Science Student  
+- Generative AI + RAG Systems Builder  
+- Full Stack Developer  
+- Hackathon Organizer & Tech Leader  
 
-I focus on building AI that creates real-world impact.
+Focused on designing intelligent systems with real-world impact.
 
 ---
 
-# 🚀 Featured Projects
+## <img src="https://img.icons8.com/fluency/28/code.png"/> Featured Projects
 
-| Project | Link |
-|--------|------|
+| Project | Repository |
+|--------|------------|
 | IPC ↔ BNS Comparator | https://github.com/Reyajosephine/ipc_bns |
 | Certificate Automation | https://github.com/Reyajosephine/Certificate_automation |
 | Portfolio Website | https://github.com/Reyajosephine/My-1st-portfolio |
 | Novus Internship Work | https://github.com/Reyajosephine/Novus-intern |
 
-
 ---
 
-# 🧪 Research & Innovation
+## 🔬 Research & Innovation
 
-### BreastGuard AI+
+**BreastGuard AI+**  
 Multimodal explainable cancer risk prediction  
-Targeting publication / patent pipeline  
 
-### Justice Bot
-LLM + RAG powered legal interpretation tools  
+**Justice Bot**  
+LLM + RAG legal interpretation system  
 
-### CPI–PPI Drug Discovery
+**CPI–PPI Drug Discovery**  
 ML-based interaction prediction research  
 
 ---
 
-# 🛠 Tech Arsenal
+## <img src="https://img.icons8.com/fluency/28/maintenance.png"/> Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,c,react,nodejs,mongodb,fastapi,git,azure,vscode"/>
@@ -59,7 +57,7 @@ ML-based interaction prediction research
 
 ---
 
-# 📈 Developer Metrics
+## <img src="https://img.icons8.com/fluency/28/combo-chart.png"/> Developer Metrics
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reyajosephine&theme=radical"/>
@@ -72,7 +70,7 @@ ML-based interaction prediction research
 
 ---
 
-# 📊 GitHub Analytics
+## <img src="https://img.icons8.com/fluency/28/statistics.png"/> GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Reyajosephine&theme=radical"/>
@@ -80,7 +78,7 @@ ML-based interaction prediction research
 
 ---
 
-# 🌌 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyajosephine&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff"/>
@@ -88,7 +86,7 @@ ML-based interaction prediction research
 
 ---
 
-# 🐍 Contribution Snake
+## <img src="https://img.icons8.com/fluency/28/snake.png"/> Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Reyajosephine/Reyajosephine/output/github-contribution-grid-snake.svg"/>
@@ -96,20 +94,20 @@ ML-based interaction prediction research
 
 ---
 
-# 🤝 Connect
+## <img src="https://img.icons8.com/fluency/28/link.png"/> Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/reya-josephine-h-a871a827b/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://reyajosephine.github.io/My-1st-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 <a href="mailto:reyajosephineh@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
